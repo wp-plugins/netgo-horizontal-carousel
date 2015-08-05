@@ -11,7 +11,8 @@ Stable tag: 1.0
 == Description ==
 Using the plugin we can put horizontal image slider with the help of shortcodes.
 
-== Features  ==
+<strong>Plugin Features </strong>
+
 * Shortcode System.
 * Touch Enable.
 * All Browser support.
