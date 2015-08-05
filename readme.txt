@@ -14,6 +14,7 @@ Using the plugin we can put horizontal image slider with the help of shortcodes.
 <strong>Plugin Features </strong>
 
 * Shortcode System.
+* Touch Enable.
 * All Browser support.
 * Auto play Enable.
 * Unlimited Carousel.
