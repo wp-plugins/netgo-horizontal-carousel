@@ -1,4 +1,4 @@
-=== Netgo Horizontal Carousel ===
+=== Horizontal Carousel ===
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=neattingo@gmail.com&item_name=Netgo+Horizontal+Carousel
 Tags: page, pages, tree, cms, Carousel, horizontal, slider, category slider
 Contributors: NetAttingo Technologies
