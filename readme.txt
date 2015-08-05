@@ -11,6 +11,16 @@ Stable tag: 1.0
 == Description ==
 Using the plugin we can put horizontal image slider with the help of shortcodes.
 
+== Features  ==
+* Shortcode System.
+* Touch Enable.
+* All Browser support.
+* Auto play Enable.
+* Unlimited Carousel.
+* Use via short-code.
+* Support post or page.
+* And many more.
+
 == Screenshots ==
 
 1. Back end add Carousel Category.
