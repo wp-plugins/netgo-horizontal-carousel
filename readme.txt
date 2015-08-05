@@ -12,6 +12,7 @@ Stable tag: 1.0
 Using the plugin we can put horizontal image slider with the help of shortcodes.
 
 <strong>Plugin Features </strong>
+
 * Shortcode System.
 * All Browser support.
 * Auto play Enable.
