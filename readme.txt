@@ -9,7 +9,7 @@ Requires at least: 3.5.0
 Stable tag: 1.0
 
 == Description ==
-Using the plugin we can put horizontal image slider with the help of shortcodes.
+Using this plugin, you can put horizontal image slider with the help of shortcode used after installing plug in.
 
 <strong>Plugin Features </strong>
 
